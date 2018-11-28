@@ -6,7 +6,7 @@
 [![Build Status](https://travis-ci.org/ralphtheninja/diceware-cli.svg?branch=master)](https://travis-ci.org/ralphtheninja/diceware-cli)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-This is a cli wrapper around [`eff-diceware-passphrase`](https://github.com/emilbayes/eff-diceware-passphrase) (which in turn is based on [`sodium-native`](https://github.com/sodium-friends/sodium-native)).
+This is a cli wrapper around [`eff-diceware-passphrase`](https://github.com/emilbayes/eff-diceware-passphrase) (which in turn is based on [`sodium-universal`](https://github.com/sodium-friends/sodium-universal)).
 
 ## Install
 
